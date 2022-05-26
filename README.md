@@ -1,8 +1,8 @@
 # kafkafadillah2.github.io
 
-Tugas Praktikum Algoritma 
+Home work Prak Algo
 Day 1
 
 - continue
 - break
--
+- struct
